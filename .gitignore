@@ -1,0 +1,7 @@
+venv
+.idea/
+terraform/credentials/
+terraform/.terraform/
+terraform/tfplan
+
+*.pyc
